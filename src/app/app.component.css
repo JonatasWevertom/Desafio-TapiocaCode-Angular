@@ -1,0 +1,20 @@
+.card-container {
+    justify-content: center;
+    display        : flex;
+    flex-wrap      : wrap;
+
+}
+
+.example-card {
+    margin         : 10px;
+    padding        : 10px;
+    width          : 200px;
+    display        : flex;
+    justify-content: center;
+    text-align     : center;
+    flex-wrap      : wrap;
+}
+
+img {
+    width: 200px;
+}
